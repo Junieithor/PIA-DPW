@@ -1,0 +1,67 @@
+@charset "utf-8";
+h1{
+	text-align:center;
+	font:menubar;
+	color:#0CF;
+	font-weight:300;
+	font-weight:300;
+	width:1000px;
+	background-color:#333;
+	font-size:100px;
+	}
+body{
+	
+	background:url(https://www.pixelstalk.net/wp-content/uploads/images3/Dark_Grey_abstract_hd_wallpaper_1-768x480.jpeg);
+background-attachment: fixed;
+background-size: 100% 100%; 
+}
+.joyas{
+	display:block;
+	font-size:25px;
+	list-style-type:none;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	display:inline-block;
+	padding-left:/supx;
+	font-weight:bold;
+font-weight:100;
+}
+.joyas li {
+	color:#0C3;
+	float:left;
+	padding:20px;
+	background-color:#009;
+	text-decoration:none
+	}
+.pie{
+	font-size:25px;
+	color:#9F9;
+		font:"Comic Sans MS", cursive;
+	}
+	p{
+		font-size:25px;
+		color:#FFF;
+	}
+	.tabla{
+		text-decoration:none;
+		color:#99F;
+		display:block;
+		padding:10px 20px
+	}
+	
+.mapa{
+	color:#F00
+	}
+.llegar{
+		border-radius:35px;
+		width:1000px;
+		height:30px;
+		}
+.lanueva::first-letter{
+	font-size:36px;
+	
+	}
+	
+
+
+/* CSS Document */
+
